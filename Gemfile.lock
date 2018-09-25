@@ -179,7 +179,6 @@ DEPENDENCIES
   rack-cache
   rails (= 4.0.2)
   rails_12factor
-  rake (= 10.1.1)
   sass-rails (~> 4.0.0)
   scout_apm
   seed_dumper
